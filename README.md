@@ -1,4 +1,4 @@
 # Games
 Website about games
 
-Damian Juszczak, Dawid Drobny, Bartosz Opałka
+Damian Juszczak, Bartosz Opałka, Dawid Drobny
